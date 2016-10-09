@@ -1,0 +1,10 @@
+pane	0	1	:..my-zsh/custom	0	:-	1	:/home/tsihlofouskas/.oh-my-zsh/custom	1	zsh	:
+pane	0	2	:~	1	:*	1	:/home/tsihlofouskas	0	zsh	:
+pane	0	2	:~	1	:*	2	:/home/tsihlofouskas	1	vim	:vim .tmux.conf
+pane	0	2	:~	1	:*	3	:/home/tsihlofouskas	0	zsh	:
+pane	2	1	:zsh	1	:*Z	1	:/home/tsihlofouskas	0	vim	:vim .tmux.conf
+pane	2	1	:zsh	1	:*Z	2	:/home/tsihlofouskas	1	zsh	:
+window	0	1	0	:-	c15d,272x64,0,0,0
+window	0	2	1	:*	627e,272x64,0,0{136x64,0,0,2,135x64,137,0[135x49,137,0,3,135x14,137,50,4]}
+window	2	1	1	:*Z	1111,135x67,0,0{68x67,0,0,7,66x67,69,0,8}
+state	0	

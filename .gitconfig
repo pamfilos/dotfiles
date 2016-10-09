@@ -1,0 +1,12 @@
+[include]
+        path = .util/gitconfig
+[user]
+        name = Pamfilos Fokianos
+        email = pamfilosf@gmail.com
+[merge]
+[github]
+        user = pamfilos
+[push]
+        default = simple
+[commit]
+        gpgsign = true

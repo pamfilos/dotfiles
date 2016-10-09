@@ -1,0 +1,4 @@
+pane	0	1	:vim	1	:*	1	:/home/tsihlofouskas/.oh-my-zsh/custom/themes	1	vim	:vim geometry.zsh-theme
+pane	0	1	:vim	1	:*	2	:/home/tsihlofouskas	0	zsh	:
+window	0	1	1	:*	47f8,238x56,0,0{119x56,0,0,0,118x56,120,0,3}
+state	0	

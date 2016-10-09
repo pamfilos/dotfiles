@@ -1,0 +1,3 @@
+pane	0	1	:vim	1	:*	1	:/home/tsihlofouskas	1	vim	:vim .tmux.conf
+window	0	1	1	:*	d1bd,158x77,0,0,0
+state	0	

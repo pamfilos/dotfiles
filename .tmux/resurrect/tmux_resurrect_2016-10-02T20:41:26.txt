@@ -1,0 +1,6 @@
+pane	0	1	:exit	1	:*Z	1	:/home/tsihlofouskas	1	zsh	:
+pane	0	1	:exit	1	:*Z	2	:/home/tsihlofouskas	0	zsh	:
+pane	0	2	:~	0	:-	1	:/home/tsihlofouskas	1	zsh	:
+window	0	1	1	:*Z	4b83,135x73,0,0{67x73,0,0,0,67x73,68,0,1}
+window	0	2	0	:-	d5bf,158x78,0,0,2
+state	0	

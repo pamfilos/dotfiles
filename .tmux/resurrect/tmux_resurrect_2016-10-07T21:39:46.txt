@@ -1,0 +1,5 @@
+pane	0	1	:urlview	1	:*	1	:/home/tsihlofouskas	0	zsh	:
+pane	0	1	:urlview	1	:*	2	:/home/tsihlofouskas	1	urlview	:
+pane	0	1	:urlview	1	:*	3	:/home/tsihlofouskas	0	vim	:vim .tmux.conf
+window	0	1	1	:*	288a,135x64,0,0{112x64,0,0[112x53,0,0,0,112x10,0,54,12],22x64,113,0,2}
+state	0	

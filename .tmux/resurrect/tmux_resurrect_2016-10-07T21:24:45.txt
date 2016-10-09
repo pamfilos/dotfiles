@@ -1,0 +1,6 @@
+pane	0	1	:vim	1	:*Z	1	:/home/tsihlofouskas	0	zsh	:
+pane	0	1	:vim	1	:*Z	2	:/home/tsihlofouskas	1	vim	:vim .tmux.conf
+pane	0	2	:zsh	0	:-	1	:/home/tsihlofouskas	1	zsh	:
+window	0	1	1	:*Z	d358,135x64,0,0{112x64,0,0,0,22x64,113,0,2}
+window	0	2	0	:-	c160,272x64,0,0,3
+state	0	
